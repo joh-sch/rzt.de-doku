@@ -51,8 +51,8 @@
   <summary class="collapsibleBtn">Echtgerät-Test mobile Version</summary>
 
   <br>
-  Getestet auf:   Apple iPhone 12
-  Internetverb.:  Mobile Daten (5G)
+  Getestet auf:   Apple iPhone 12<br>
+  Internetverb.:  Mobile Daten (5G)<br>
   <br>
   
   <video 
