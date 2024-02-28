@@ -24,10 +24,6 @@ a {
 // Headlines //
 ///////////////
 
-h1, h2 {
-  _color: rgb(235, 0, 1);
-}
-
 h2 {
   border-bottom: none !important;
 }
@@ -38,4 +34,5 @@ h2 {
 
 .collapsibleBtn {
   font-size: 2rem;
+  &:hover { color: rgb(235, 0, 1);}
 }
