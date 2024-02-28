@@ -1,3 +1,5 @@
+
+https://github.com/joh-sch/rzt.de-doku/assets/39758027/771906cc-7ac9-46a6-bf1a-552227f3faf8
 # Ensemble (/ensemble/ensemble-und-gaeste)
 
 <!-- ------------------------ -->
@@ -55,11 +57,11 @@
 
   <br>
   Getestet auf:   Apple iPhone 12<br>
-  Internetverb.:  Mobile Daten (5G)<br>
+  Internetverb.:  WLAN<br>
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/7586b4a5-11b7-426e-a2fd-0661a6b710b1" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/54e14bb6-14c5-4722-a2ee-c93ffc8c70e2" 
     controls="controls" 
     style   ="max-width: 50%;">
   </video>
