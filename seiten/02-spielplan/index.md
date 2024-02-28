@@ -35,8 +35,8 @@
   <summary class="collapsibleBtn">Vorschau überarbeitet Desktop-Version</summary>
   
   Überarbeitungen/Updates:
-
-  - Veranstaltungs-Tags (Kategorien) auf eigener Zeile für verbesserte Lesbarkeit
+  <br>
+  - Veranstaltungs-Tags (Kategorien) auf eigener Zeile für verbesserte Lesbarkeit<br>
   - Überarbeitet respsonive Typografie (Größen, Abstände)
   
   <video 
