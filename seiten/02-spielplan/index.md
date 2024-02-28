@@ -20,6 +20,7 @@
 Überarbeitungen/Updates:
 
 - Neues Unterseiten-Menü
+- Scroll-Balken
 - Überarbeitet respsonive Typografie (Größen, Abstände)
   
 <video 
