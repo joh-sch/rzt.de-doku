@@ -11,6 +11,15 @@ img:not(.noBorder) {
   border: 1px solid;
 }
 
+///////////
+// Links //
+///////////
+
+a {
+  color          : rgb(235, 0, 1);
+  text-decoration: underline;
+}
+
 ///////////////
 // Headlines //
 ///////////////
