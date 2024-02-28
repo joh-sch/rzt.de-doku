@@ -1,5 +1,3 @@
-
-https://github.com/joh-sch/rzt.de-doku/assets/39758027/771906cc-7ac9-46a6-bf1a-552227f3faf8
 # Ensemble (/ensemble/ensemble-und-gaeste)
 
 <!-- ------------------------ -->
