@@ -26,7 +26,7 @@
 <!-- ------------------------ -->
 
 <details>
-  <summary class="collapsibleBtn">Vorschau überarbeitet Desktop-Version</summary>
+  <summary class="collapsibleBtn">Vorschau überarbeitet Mobile-Version</summary>
 
   <br>
   Überarbeitungen/Updates:
