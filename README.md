@@ -1,2 +1,2 @@
-# rzt.de-doku
-Documentation for rzt.de
+# rzt.de – Dokumentation
+Dokumentation für rzt.de
