@@ -15,17 +15,11 @@
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/0ccfbc38-d8bb-4c43-b004-63124d875c93" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/08c0fcb0-b67c-4c17-aded-f80a1afe73a7" 
     controls="controls" 
     style   ="max-width: 100%;">
   </video>
 </details>
-
-
-
-
-https://github.com/joh-sch/rzt.de-doku/assets/39758027/08c0fcb0-b67c-4c17-aded-f80a1afe73a7
-
 
 <!-- ----------------------- -->
 <!-- Preview: revised mobile -->
