@@ -1,4 +1,4 @@
-# Spielplan (/spielplan)
+# Veranstaltungsseite (/spielplan/veranstaltung)
 
 <!-- ------------------------ -->
 <!-- Preview: revised desktop -->
@@ -20,6 +20,12 @@
     style   ="max-width: 100%;">
   </video>
 </details>
+
+
+
+
+https://github.com/joh-sch/rzt.de-doku/assets/39758027/08c0fcb0-b67c-4c17-aded-f80a1afe73a7
+
 
 <!-- ----------------------- -->
 <!-- Preview: revised mobile -->
@@ -51,8 +57,8 @@
   <summary class="collapsibleBtn">Echtgerät-Test mobile Version</summary>
 
   <br>
-  Getestet auf:   Apple iPhone 12
-  Internetverb.:  Mobile Daten (5G)
+  Getestet auf:   Apple iPhone 12<br>
+  Internetverb.:  Mobile Daten (5G)<br>
   <br>
   
   <video 
