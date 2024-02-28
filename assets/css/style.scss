@@ -11,7 +11,14 @@ img:not(.noBorder) {
   border: 1px solid;
 }
 
+///////////////
+// Headlines //
+///////////////
+
+h1, h2 {
+  color: rgb(235, 0, 1);
+}
+
 h2 {
-  color        : rgb(235, 0, 1);
   border-bottom: none !important;
 }
