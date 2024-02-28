@@ -2,6 +2,11 @@
 
 ## Vorschau überarbeitet Desktop-Version
 
+Überarbeitungen/Updates:
+
+- Veranstaltungs-Tags (Kategorien) auf eigener Zeile für verbesserte Lesbarkeit
+- Überarbeitet respsonive Typografie (Größen, Abstände)
+
 <video 
   src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/0ccfbc38-d8bb-4c43-b004-63124d875c93" 
   controls="controls" 
@@ -12,6 +17,11 @@
 
 ## Vorschau überarbeitet Mobile-Version
 
+Überarbeitungen/Updates:
+
+- Neues Unterseiten-Menü
+- Überarbeitet respsonive Typografie (Größen, Abstände)
+  
 <video 
   src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/363ba0d6-b9c1-4251-b18e-3ca4f7cde2ae" 
   controls="controls" 
