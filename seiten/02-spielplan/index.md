@@ -33,11 +33,13 @@
 
 <details>
   <summary class="collapsibleBtn">Vorschau überarbeitet Desktop-Version</summary>
-  
+
+  <br>
   Überarbeitungen/Updates:
   <br>
   - Veranstaltungs-Tags (Kategorien) auf eigener Zeile für verbesserte Lesbarkeit<br>
   - Überarbeitet respsonive Typografie (Größen, Abstände)
+  <br>
   
   <video 
     src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/0ccfbc38-d8bb-4c43-b004-63124d875c93" 
