@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body { 
+  background-color: rgb(255, 255, 255); 
+}
+
+img:not(.noBorder) {
+  border: 1px solid;
+}
+
+h2 {
+  border-bottom: none !important;
+  text-align: center;
+}
