@@ -51,12 +51,13 @@
   <summary class="collapsibleBtn">Echtgerät-Test mobile Version</summary>
 
   <br>
-  Getestet auf: Apple iPhone 12
+  Getestet auf:   Apple iPhone 12
+  Internetverb.:  Mobile Daten (5G)
   <br>
   
   <video 
     src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/e25cc8ca-dfa9-4e53-bf2d-dcb3aeb28f83" 
     controls="controls" 
-    style   ="max-width: 100%;">
+    style   ="max-width: 50%;">
   </video>
 </details>
