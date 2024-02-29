@@ -15,7 +15,7 @@
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/0ccfbc38-d8bb-4c43-b004-63124d875c93" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/63347f98-2cd2-4f6e-828c-6db4026bf9d8" 
     controls="controls" 
     style   ="max-width: 100%;">
   </video>
@@ -32,12 +32,11 @@
   Überarbeitungen/Updates:
   <br>
   - verbessertes Scroll-Verhalten<br>
-  - Scroll-Balken<br>
   - verzögertes Laden von Bildern für bessere Ladezeiten<br>
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/363ba0d6-b9c1-4251-b18e-3ca4f7cde2ae" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/b8b46c44-dd7f-4d4c-94cc-a20bd2d302ee"
     controls="controls" 
     style   ="max-width: 100%;">
   </video>
@@ -56,7 +55,7 @@
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/e25cc8ca-dfa9-4e53-bf2d-dcb3aeb28f83" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/16152f28-e6d3-4656-8f93-897219820a32" 
     controls="controls" 
     style   ="max-width: 50%;">
   </video>
