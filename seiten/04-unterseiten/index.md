@@ -14,14 +14,14 @@
   - Überarbeitet respsonive Typografie (Größen, Abstände)<br>
   <br>
   
-  #### Teil 1<br>
+  <h4>Teil 1</h4><br>
   <video 
     src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/6aa5699e-0698-4ed7-bc19-d27b55952570" 
     controls="controls" 
     style   ="max-width: 100%;">
   </video>
 
-  #### Teil 2<br>
+  <h4>Teil 2</h4><br>
   <video 
     src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/2ae5c7d8-731f-4b2a-9055-ccd38aaa3d1d" 
     controls="controls" 
