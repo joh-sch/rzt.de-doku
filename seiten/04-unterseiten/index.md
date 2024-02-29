@@ -14,14 +14,14 @@
   - Überarbeitet respsonive Typografie (Größen, Abstände)<br>
   <br>
   
-  <h4>Teil 1</h4><br>
+  <h4>Teil 1</h4>
   <video 
     src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/6aa5699e-0698-4ed7-bc19-d27b55952570" 
     controls="controls" 
     style   ="max-width: 100%;">
   </video>
 
-  <h4>Teil 2</h4><br>
+  <h4>Teil 2</h4>
   <video 
     src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/2ae5c7d8-731f-4b2a-9055-ccd38aaa3d1d" 
     controls="controls" 
@@ -45,7 +45,7 @@
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/2f9a1b28-9b9d-4f6f-8b35-39fcef9faf5b" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/b22fd89a-4211-44b2-931a-6206b2927640" 
     controls="controls" 
     style   ="max-width: 100%;">
   </video>
@@ -64,7 +64,7 @@
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/7586b4a5-11b7-426e-a2fd-0661a6b710b1" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/bb98f3b3-ab7c-43f4-9f22-6726d665441e" 
     controls="controls" 
     style   ="max-width: 50%;">
   </video>
