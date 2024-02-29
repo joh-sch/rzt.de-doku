@@ -9,5 +9,6 @@ Vorschauen, Updates und Hinweise zu allen Seiten, Unterseiten und Features.
    2. [Veranstaltungsseite](seiten/02-2-veranstaltung/index.md)
 3. Ensemble
    1. [Ensemble](seiten/03-1-ensemble/index.md)
+   2. [Schauspieler*innen-Seite](seiten/03-2-schauspieler/index.md)
 4. [Ensemble](seiten/03-ensemble/index.md)
 5. [Navigation](features/01-navigation/index.md)
