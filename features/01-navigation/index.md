@@ -11,11 +11,11 @@
   Überarbeitungen/Updates:
   <br>
   - Neues »Bilder-Aus« Icon<br>
-  - Neuer Button zum Schließen von Unterseiten
+  - Neuer Button zum Schließen von Unterseiten<br>
   <br>
   
   <video 
-    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/15656785-2e55-4726-bebe-f27b00216d8e" 
+    src     ="https://github.com/joh-sch/rzt.de-doku/assets/39758027/1eb484b6-ee18-4916-9c28-e647ac767ac8" 
     controls="controls" 
     style   ="max-width: 100%;">
   </video>
